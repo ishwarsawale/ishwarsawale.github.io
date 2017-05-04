@@ -144,7 +144,32 @@
                 </div>
             </div>
         </div>
-        <div id="github-projects"></div>
+       {% if site.github %}
+    <div class="rounded_panel txt_lightgrey">
+        <div class="top-rounded-panel grey-bg">
+            <h1>Some projects I am Working On</h1>
+        </div>
+        <div class="content-rounded-panel" style="overflow: hidden;">
+            <div>
+                {% for project in site.github %}
+                    {% assign loopindex = forloop.index | modulo: 2 %}
+                    {% if loopindex == 1 %}
+                    <div class="row">
+                    {% endif %}
+                        <div class="col-lg-6">
+                            <div class="github-widget" data-repo="{{project}}"></div>
+                        </div>
+                    {% if loopindex == 0 %}
+                    </div>
+                    {% endif %}
+                {% endfor %}
+                {% if loopindex == 1 %}
+                    </div>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+{% endif %}
         <div style="clear: both;" class="clear"></div>
     </div>
         </div>
@@ -193,13 +218,6 @@
 
     <!-- Custom Theme JavaScript -->
     <script src="js/creative.js"></script>
-    <script src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.2.min.js" type="text/javascript"></script>
-    <script src="/scripts/github.js" type="text/javascript"></script>
-    <script type="text/javascript">
-      $(function() {
-        $("#github-projects").loadRepositories("ishwarsawale");
-      });
-    </script>
 </body>
 
 </html>

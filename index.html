@@ -144,6 +144,7 @@
                 </div>
             </div>
         </div>
+        <div id="github-projects"></div>
         <div style="clear: both;" class="clear"></div>
     </div>
         </div>
@@ -192,6 +193,13 @@
 
     <!-- Custom Theme JavaScript -->
     <script src="js/creative.js"></script>
+    <script src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.2.min.js" type="text/javascript"></script>
+    <script src="/scripts/github.js" type="text/javascript"></script>
+    <script type="text/javascript">
+      $(function() {
+        $("#github-projects").loadRepositories("ishwarsawale");
+      });
+    </script>
 </body>
 
 </html>

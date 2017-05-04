@@ -74,12 +74,12 @@ aside {
 
 ul {
   list-style-type: none;
-  margin: 0;
+  margin: 2;
   padding: 2;
 }
  
 li {
-  font: 200 20px/1.5 Helvetica, Verdana, sans-serif;
+  font: 100 20px/1.5 Helvetica, Verdana, sans-serif;
   border-bottom: 1px solid #ccc;
 }
 

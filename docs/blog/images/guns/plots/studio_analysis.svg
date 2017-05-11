@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 1133.86 1133.86'>
+<defs>
+  <style type='text/css'><![CDATA[
+    line, polyline, path, rect, circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cp1'>
+    <rect x='55.63' y='26.89' width='1072.25' height='1056.41' />
+  </clipPath>
+</defs>
+<polyline points='55.63,961.04 1127.88,961.04 ' style='stroke-width: 1.07; stroke: #FAFAFA; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<polyline points='55.63,671.46 1127.88,671.46 ' style='stroke-width: 1.07; stroke: #FAFAFA; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<polyline points='55.63,381.87 1127.88,381.87 ' style='stroke-width: 1.07; stroke: #FAFAFA; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<polyline points='55.63,92.29 1127.88,92.29 ' style='stroke-width: 1.07; stroke: #FAFAFA; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<polyline points='70.59,1083.30 70.59,26.89 ' style='stroke-width: 1.07; stroke: #FAFAFA; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<polyline points='408.38,1083.30 408.38,26.89 ' style='stroke-width: 1.07; stroke: #FAFAFA; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<polyline points='746.18,1083.30 746.18,26.89 ' style='stroke-width: 1.07; stroke: #FAFAFA; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<polyline points='1083.97,1083.30 1083.97,26.89 ' style='stroke-width: 1.07; stroke: #FAFAFA; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<polyline points='55.63,816.25 1127.88,816.25 ' style='stroke-width: 0.43; stroke: #E5E5E5; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<polyline points='55.63,526.67 1127.88,526.67 ' style='stroke-width: 0.43; stroke: #E5E5E5; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<polyline points='55.63,237.08 1127.88,237.08 ' style='stroke-width: 0.43; stroke: #E5E5E5; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<polyline points='239.49,1083.30 239.49,26.89 ' style='stroke-width: 0.43; stroke: #E5E5E5; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<polyline points='577.28,1083.30 577.28,26.89 ' style='stroke-width: 0.43; stroke: #E5E5E5; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<polyline points='915.07,1083.30 915.07,26.89 ' style='stroke-width: 0.43; stroke: #E5E5E5; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<polyline points='104.37,425.11 116.71,458.95 129.05,491.12 141.39,521.25 153.73,548.92 166.07,573.74 178.40,595.37 190.74,613.57 203.08,628.27 215.42,639.56 227.76,647.73 240.10,653.21 252.44,656.49 264.78,658.10 277.12,658.54 289.45,658.23 301.79,657.49 314.13,656.53 326.47,655.34 338.81,653.60 351.15,650.26 363.49,642.68 375.83,627.29 388.17,606.52 400.50,583.04 412.84,559.40 425.18,537.21 437.52,517.64 449.86,501.59 462.20,487.26 474.54,472.90 486.88,459.78 499.21,452.70 511.55,455.29 523.89,463.72 536.23,474.26 548.57,484.75 560.91,495.06 573.25,506.36 585.59,519.88 597.93,535.30 610.26,550.74 622.60,564.79 634.94,576.79 647.28,586.67 659.62,594.84 671.96,603.43 684.30,612.36 696.64,620.95 708.98,628.60 721.31,634.89 733.65,639.61 745.99,642.81 758.33,644.76 770.67,645.83 783.01,646.36 795.35,646.50 807.69,646.32 820.03,645.82 832.36,645.00 844.70,643.78 857.04,642.08 869.38,639.80 881.72,636.82 894.06,633.02 906.40,628.27 918.74,622.47 931.08,615.52 943.41,607.34 955.75,597.87 968.09,587.07 980.43,574.92 992.77,561.40 1005.11,546.52 1017.45,530.30 1029.79,512.74 1042.13,493.88 1054.46,473.73 1066.80,452.33 1079.14,429.68 1079.14,1024.99 1066.80,1010.43 1054.46,996.42 1042.13,982.99 1029.79,970.18 1017.45,958.02 1005.11,946.54 992.77,935.77 980.43,925.73 968.09,916.44 955.75,907.89 943.41,900.08 931.08,892.96 918.74,886.50 906.40,880.63 894.06,875.25 881.72,870.26 869.38,865.57 857.04,861.04 844.70,856.58 832.36,852.09 820.03,847.50 807.69,842.76 795.35,837.84 783.01,832.79 770.67,827.66 758.33,822.04 745.99,816.00 733.65,810.03 721.31,804.51 708.98,799.63 696.64,795.29 684.30,791.16 671.96,786.78 659.62,781.58 647.28,774.50 634.94,763.66 622.60,750.54 610.26,736.76 597.93,723.32 585.59,710.50 573.25,697.73 560.91,681.78 548.57,664.80 536.23,650.48 523.89,641.23 511.55,637.38 499.21,637.74 486.88,641.67 474.54,650.34 462.20,663.33 449.86,676.65 437.52,687.91 425.18,701.31 412.84,716.73 400.50,734.08 388.17,753.75 375.83,777.04 363.49,806.42 351.15,838.93 338.81,869.87 326.47,896.95 314.13,919.42 301.79,937.22 289.45,950.64 277.12,960.16 264.78,966.39 252.44,970.04 240.10,971.87 227.76,972.70 215.42,973.31 203.08,974.42 190.74,976.58 178.40,980.19 166.07,985.43 153.73,992.37 141.39,1000.94 129.05,1011.03 116.71,1022.51 104.37,1035.28 ' style='stroke-width: 2.13; stroke: none; fill: #999999; fill-opacity: 0.20;' clip-path='url(#cp1)' />
+<polyline points='104.37,730.20 116.71,740.73 129.05,751.08 141.39,761.09 153.73,770.65 166.07,779.59 178.40,787.78 190.74,795.08 203.08,801.35 215.42,806.44 227.76,810.22 240.10,812.54 252.44,813.26 264.78,812.25 277.12,809.35 289.45,804.44 301.79,797.36 314.13,787.97 326.47,776.15 338.81,761.73 351.15,744.59 363.49,724.55 375.83,702.17 388.17,680.13 400.50,658.56 412.84,638.06 425.18,619.26 437.52,602.78 449.86,589.12 462.20,575.29 474.54,561.62 486.88,550.72 499.21,545.22 511.55,546.34 523.89,552.48 536.23,562.37 548.57,574.77 560.91,588.42 573.25,602.04 585.59,615.19 597.93,629.31 610.26,643.75 622.60,657.67 634.94,670.22 647.28,680.59 659.62,688.21 671.96,695.11 684.30,701.76 696.64,708.12 708.98,714.12 721.31,719.70 733.65,724.82 745.99,729.40 758.33,733.40 770.67,736.75 783.01,739.58 795.35,742.17 807.69,744.54 820.03,746.66 832.36,748.55 844.70,750.18 857.04,751.56 869.38,752.68 881.72,753.54 894.06,754.13 906.40,754.45 918.74,754.49 931.08,754.24 943.41,753.71 955.75,752.88 968.09,751.75 980.43,750.32 992.77,748.59 1005.11,746.53 1017.45,744.16 1029.79,741.46 1042.13,738.44 1054.46,735.08 1066.80,731.38 1079.14,727.34 ' style='stroke-width: 2.13; stroke: #3366FF; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<circle cx='1079.14' cy='735.17' r='2.49pt' style='stroke-width: 0.71; fill: #000000; fill-opacity: 0.70;' clip-path='url(#cp1)' />
+<circle cx='577.28' cy='758.33' r='2.49pt' style='stroke-width: 0.71; fill: #000000; fill-opacity: 0.70;' clip-path='url(#cp1)' />
+<circle cx='334.07' cy='758.33' r='2.49pt' style='stroke-width: 0.71; fill: #000000; fill-opacity: 0.70;' clip-path='url(#cp1)' />
+<circle cx='866.82' cy='735.17' r='2.49pt' style='stroke-width: 0.71; fill: #000000; fill-opacity: 0.70;' clip-path='url(#cp1)' />
+<circle cx='631.33' cy='700.42' r='2.49pt' style='stroke-width: 0.71; fill: #000000; fill-opacity: 0.70;' clip-path='url(#cp1)' />
+<circle cx='793.47' cy='758.33' r='2.49pt' style='stroke-width: 0.71; fill: #000000; fill-opacity: 0.70;' clip-path='url(#cp1)' />
+<circle cx='557.98' cy='735.17' r='2.49pt' style='stroke-width: 0.71; fill: #000000; fill-opacity: 0.70;' clip-path='url(#cp1)' />
+<circle cx='104.37' cy='723.58' r='2.49pt' style='stroke-width: 0.71; fill: #000000; fill-opacity: 0.70;' clip-path='url(#cp1)' />
+<circle cx='361.09' cy='758.33' r='2.49pt' style='stroke-width: 0.71; fill: #000000; fill-opacity: 0.70;' clip-path='url(#cp1)' />
+<circle cx='442.16' cy='712.00' r='2.49pt' style='stroke-width: 0.71; fill: #000000; fill-opacity: 0.70;' clip-path='url(#cp1)' />
+<circle cx='489.85' cy='654.08' r='2.49pt' style='stroke-width: 0.71; fill: #000000; fill-opacity: 0.70;' clip-path='url(#cp1)' />
+<circle cx='368.46' cy='688.83' r='2.49pt' style='stroke-width: 0.71; fill: #000000; fill-opacity: 0.70;' clip-path='url(#cp1)' />
+<circle cx='374.60' cy='677.25' r='2.49pt' style='stroke-width: 0.71; fill: #000000; fill-opacity: 0.70;' clip-path='url(#cp1)' />
+<circle cx='760.65' cy='654.08' r='2.49pt' style='stroke-width: 0.71; fill: #000000; fill-opacity: 0.70;' clip-path='url(#cp1)' />
+<circle cx='519.69' cy='109.66' r='2.49pt' style='stroke-width: 0.71; fill: #000000; fill-opacity: 0.70;' clip-path='url(#cp1)' />
+<circle cx='492.83' cy='723.58' r='2.49pt' style='stroke-width: 0.71; fill: #000000; fill-opacity: 0.70;' clip-path='url(#cp1)' />
+<circle cx='388.12' cy='758.33' r='2.49pt' style='stroke-width: 0.71; fill: #000000; fill-opacity: 0.70;' clip-path='url(#cp1)' />
+<circle cx='374.60' cy='712.00' r='2.49pt' style='stroke-width: 0.71; fill: #000000; fill-opacity: 0.70;' clip-path='url(#cp1)' />
+<circle cx='459.05' cy='723.58' r='2.49pt' style='stroke-width: 0.71; fill: #000000; fill-opacity: 0.70;' clip-path='url(#cp1)' />
+<circle cx='772.45' cy='723.58' r='2.49pt' style='stroke-width: 0.71; fill: #000000; fill-opacity: 0.70;' clip-path='url(#cp1)' />
+<circle cx='602.30' cy='503.50' r='2.49pt' style='stroke-width: 0.71; fill: #000000; fill-opacity: 0.70;' clip-path='url(#cp1)' />
+<circle cx='764.36' cy='665.67' r='2.49pt' style='stroke-width: 0.71; fill: #000000; fill-opacity: 0.70;' clip-path='url(#cp1)' />
+<circle cx='374.60' cy='700.42' r='2.49pt' style='stroke-width: 0.71; fill: #000000; fill-opacity: 0.70;' clip-path='url(#cp1)' />
+<circle cx='626.41' cy='688.83' r='2.49pt' style='stroke-width: 0.71; fill: #000000; fill-opacity: 0.70;' clip-path='url(#cp1)' />
+<circle cx='535.06' cy='74.91' r='2.49pt' style='stroke-width: 0.71; fill: #000000; fill-opacity: 0.70;' clip-path='url(#cp1)' />
+<circle cx='329.57' cy='746.75' r='2.49pt' style='stroke-width: 0.71; fill: #000000; fill-opacity: 0.70;' clip-path='url(#cp1)' />
+<circle cx='374.60' cy='746.75' r='2.49pt' style='stroke-width: 0.71; fill: #000000; fill-opacity: 0.70;' clip-path='url(#cp1)' />
+<circle cx='364.95' cy='735.17' r='2.49pt' style='stroke-width: 0.71; fill: #000000; fill-opacity: 0.70;' clip-path='url(#cp1)' />
+<circle cx='415.14' cy='758.33' r='2.49pt' style='stroke-width: 0.71; fill: #000000; fill-opacity: 0.70;' clip-path='url(#cp1)' />
+<circle cx='820.49' cy='758.33' r='2.49pt' style='stroke-width: 0.71; fill: #000000; fill-opacity: 0.70;' clip-path='url(#cp1)' />
+<circle cx='532.24' cy='746.75' r='2.49pt' style='stroke-width: 0.71; fill: #000000; fill-opacity: 0.70;' clip-path='url(#cp1)' />
+<circle cx='477.03' cy='457.17' r='2.49pt' style='stroke-width: 0.71; fill: #000000; fill-opacity: 0.70;' clip-path='url(#cp1)' />
+<circle cx='658.35' cy='758.33' r='2.49pt' style='stroke-width: 0.71; fill: #000000; fill-opacity: 0.70;' clip-path='url(#cp1)' />
+<circle cx='779.95' cy='746.75' r='2.49pt' style='stroke-width: 0.71; fill: #000000; fill-opacity: 0.70;' clip-path='url(#cp1)' />
+<circle cx='614.13' cy='688.83' r='2.49pt' style='stroke-width: 0.71; fill: #000000; fill-opacity: 0.70;' clip-path='url(#cp1)' />
+<circle cx='766.44' cy='758.33' r='2.49pt' style='stroke-width: 0.71; fill: #000000; fill-opacity: 0.70;' clip-path='url(#cp1)' />
+<circle cx='425.27' cy='723.58' r='2.49pt' style='stroke-width: 0.71; fill: #000000; fill-opacity: 0.70;' clip-path='url(#cp1)' />
+<circle cx='712.40' cy='758.33' r='2.49pt' style='stroke-width: 0.71; fill: #000000; fill-opacity: 0.70;' clip-path='url(#cp1)' />
+<circle cx='361.09' cy='758.33' r='2.49pt' style='stroke-width: 0.71; fill: #000000; fill-opacity: 0.70;' clip-path='url(#cp1)' />
+<circle cx='334.07' cy='758.33' r='2.49pt' style='stroke-width: 0.71; fill: #000000; fill-opacity: 0.70;' clip-path='url(#cp1)' />
+<circle cx='500.07' cy='746.75' r='2.49pt' style='stroke-width: 0.71; fill: #000000; fill-opacity: 0.70;' clip-path='url(#cp1)' />
+<circle cx='654.49' cy='735.17' r='2.49pt' style='stroke-width: 0.71; fill: #000000; fill-opacity: 0.70;' clip-path='url(#cp1)' />
+<circle cx='433.72' cy='468.75' r='2.49pt' style='stroke-width: 0.71; fill: #000000; fill-opacity: 0.70;' clip-path='url(#cp1)' />
+<circle cx='550.26' cy='758.33' r='2.49pt' style='stroke-width: 0.71; fill: #000000; fill-opacity: 0.70;' clip-path='url(#cp1)' />
+<circle cx='447.57' cy='248.66' r='2.49pt' style='stroke-width: 0.71; fill: #000000; fill-opacity: 0.70;' clip-path='url(#cp1)' />
+<g clip-path='url(#cp1)'><text x='1079.14' y='733.10' style='font-size: 8.54pt; font-family: Arial;'></text></g>
+<g clip-path='url(#cp1)'><text x='1075.35' y='745.39' style='font-size: 8.54pt; font-family: Arial;'>A</text></g>
+<g clip-path='url(#cp1)'><text x='577.28' y='756.26' style='font-size: 8.54pt; font-family: Arial;'></text></g>
+<g clip-path='url(#cp1)'><text x='535.84' y='768.55' style='font-size: 8.54pt; font-family: Arial;'>Amazon Studios</text></g>
+<g clip-path='url(#cp1)'><text x='334.07' y='756.26' style='font-size: 8.54pt; font-family: Arial;'></text></g>
+<g clip-path='url(#cp1)'><text x='255.32' y='768.55' style='font-size: 8.54pt; font-family: Arial;'>Atmosphere Entertainment MM</text></g>
+<g clip-path='url(#cp1)'><text x='866.82' y='733.10' style='font-size: 8.54pt; font-family: Arial;'></text></g>
+<g clip-path='url(#cp1)'><text x='838.67' y='745.39' style='font-size: 8.54pt; font-family: Arial;'>Belarusfilm</text></g>
+<g clip-path='url(#cp1)'><text x='631.33' y='698.35' style='font-size: 8.54pt; font-family: Arial;'></text></g>
+<g clip-path='url(#cp1)'><text x='616.46' y='710.64' style='font-size: 8.54pt; font-family: Arial;'>Canal</text></g>
+<g clip-path='url(#cp1)'><text x='793.47' y='756.26' style='font-size: 8.54pt; font-family: Arial;'></text></g>
+<g clip-path='url(#cp1)'><text x='755.20' y='768.55' style='font-size: 8.54pt; font-family: Arial;'>Casa de Filme </text></g>
+<g clip-path='url(#cp1)'><text x='557.98' y='733.10' style='font-size: 8.54pt; font-family: Arial;'></text></g>
+<g clip-path='url(#cp1)'><text x='519.71' y='745.39' style='font-size: 8.54pt; font-family: Arial;'>Ceskoslovensk</text></g>
+<g clip-path='url(#cp1)'><text x='104.37' y='721.51' style='font-size: 8.54pt; font-family: Arial;'></text></g>
+<g clip-path='url(#cp1)'><text x='95.83' y='733.80' style='font-size: 8.54pt; font-family: Arial;'>Cin</text></g>
+<g clip-path='url(#cp1)'><text x='442.16' y='709.93' style='font-size: 8.54pt; font-family: Arial;'></text></g>
+<g clip-path='url(#cp1)'><text x='395.99' y='722.22' style='font-size: 8.54pt; font-family: Arial;'>Columbia Pictures</text></g>
+<g clip-path='url(#cp1)'><text x='489.85' y='652.01' style='font-size: 8.54pt; font-family: Arial;'></text></g>
+<g clip-path='url(#cp1)'><text x='412.36' y='664.30' style='font-size: 8.54pt; font-family: Arial;'>Columbia Pictures Corporation</text></g>
+<g clip-path='url(#cp1)'><text x='368.46' y='686.76' style='font-size: 8.54pt; font-family: Arial;'></text></g>
+<g clip-path='url(#cp1)'><text x='258.71' y='699.05' style='font-size: 8.54pt; font-family: Arial;'>Compagnie Industrielle et Commerciale Cin</text></g>
+<g clip-path='url(#cp1)'><text x='760.65' y='652.01' style='font-size: 8.54pt; font-family: Arial;'></text></g>
+<g clip-path='url(#cp1)'><text x='699.30' y='664.30' style='font-size: 8.54pt; font-family: Arial;'>Dovzhenko Film Studios</text></g>
+<g clip-path='url(#cp1)'><text x='519.69' y='107.59' style='font-size: 8.54pt; font-family: Arial;'></text></g>
+<g clip-path='url(#cp1)'><text x='502.93' y='119.88' style='font-size: 8.54pt; font-family: Arial;'>Filmov</text></g>
+<g clip-path='url(#cp1)'><text x='374.60' y='709.93' style='font-size: 8.54pt; font-family: Arial;'></text></g>
+<g clip-path='url(#cp1)'><text x='359.42' y='722.22' style='font-size: 8.54pt; font-family: Arial;'>Golan</text></g>
+<g clip-path='url(#cp1)'><text x='772.45' y='721.51' style='font-size: 8.54pt; font-family: Arial;'></text></g>
+<g clip-path='url(#cp1)'><text x='724.38' y='733.80' style='font-size: 8.54pt; font-family: Arial;'>Gorky Film Studios</text></g>
+<g clip-path='url(#cp1)'><text x='602.30' y='501.43' style='font-size: 8.54pt; font-family: Arial;'></text></g>
+<g clip-path='url(#cp1)'><text x='583.96' y='513.72' style='font-size: 8.54pt; font-family: Arial;'>Lenfilm</text></g>
+<g clip-path='url(#cp1)'><text x='535.06' y='72.84' style='font-size: 8.54pt; font-family: Arial;'></text></g>
+<g clip-path='url(#cp1)'><text x='515.46' y='85.13' style='font-size: 8.54pt; font-family: Arial;'>Mosfilm</text></g>
+<g clip-path='url(#cp1)'><text x='364.95' y='733.10' style='font-size: 8.54pt; font-family: Arial;'></text></g>
+<g clip-path='url(#cp1)'><text x='320.04' y='745.39' style='font-size: 8.54pt; font-family: Arial;'>New Line Cinema</text></g>
+<g clip-path='url(#cp1)'><text x='477.03' y='455.09' style='font-size: 8.54pt; font-family: Arial;'></text></g>
+<g clip-path='url(#cp1)'><text x='427.06' y='467.38' style='font-size: 8.54pt; font-family: Arial;'>Paramount Pictures</text></g>
+<g clip-path='url(#cp1)'><text x='712.40' y='756.26' style='font-size: 8.54pt; font-family: Arial;'></text></g>
+<g clip-path='url(#cp1)'><text x='679.82' y='768.55' style='font-size: 8.54pt; font-family: Arial;'>Soyuzdetfilm</text></g>
+<g clip-path='url(#cp1)'><text x='447.57' y='246.59' style='font-size: 8.54pt; font-family: Arial;'></text></g>
+<g clip-path='url(#cp1)'><text x='415.63' y='258.88' style='font-size: 8.54pt; font-family: Arial;'>Warner Bros</text></g>
+<defs>
+  <clipPath id='cp2'>
+    <rect x='0.00' y='0.00' width='1133.86' height='1133.86' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cp2)'><text x='31.72' y='820.83' style='font-size: 9.60pt; font-family: Arial;'>0</text></g>
+<g clip-path='url(#cp2)'><text x='24.60' y='531.25' style='font-size: 9.60pt; font-family: Arial;'>25</text></g>
+<g clip-path='url(#cp2)'><text x='24.60' y='241.66' style='font-size: 9.60pt; font-family: Arial;'>50</text></g>
+<g clip-path='url(#cp2)'><text x='230.59' y='1109.25' style='font-size: 9.60pt; font-family: Arial;'>2.5</text></g>
+<g clip-path='url(#cp2)'><text x='568.38' y='1109.25' style='font-size: 9.60pt; font-family: Arial;'>5.0</text></g>
+<g clip-path='url(#cp2)'><text x='906.17' y='1109.25' style='font-size: 9.60pt; font-family: Arial;'>7.5</text></g>
+<g clip-path='url(#cp2)'><text x='383.19' y='1125.49' style='font-size: 12.00pt; font-family: Arial;'>Average of the number of different types of guns per movie</text></g>
+<g clip-path='url(#cp2)'><text transform='translate(19.82,752.55) rotate(-90)' style='font-size: 12.00pt; font-family: Arial;'>Number of movies a studio produced that featured guns</text></g>
+<g clip-path='url(#cp2)'><text x='128.58' y='19.72' style='font-size: 14.40pt; font-family: Arial;'>Number of movies with guns film studios produced vs. average number of gun appearances of different types</text></g>
+</svg>

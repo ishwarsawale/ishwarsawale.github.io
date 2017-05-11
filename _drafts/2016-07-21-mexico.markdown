@@ -1,0 +1,33 @@
+---
+title: Missing women in Mexico are becoming younger
+header:
+  teaser: 'https://farm5.staticflickr.com/4076/4940499208_b79b77fb0a_z.jpg'
+categories:
+  - data journalism
+tags:
+  - update
+---
+
+**Missing women in Mexico are becoming younger. This is a result of an analysis of data handed over to me by Mexican Data journalist Daniela Guazo. According to Guazo, the data was scraped by a team of journalists from a Mexican government database which contained records of missing women reported by their families for both the State of Mexico and Mexico City.**
+
+![alt text](/images/mexico/header.jpg)
+
+The data includes the missing cases that were reported only by their families on a Government website, and therefore belong to the category "self-reported", and should be taken with a grain of salt. But this may turn out to be an advantage in investigating the issues of an increasingly number of missing women in these states, as the government makes an important difference between how to title missing people.
+
+I interviewed Guazo who originally sent me the data and presented what I found when running a quantitative analysis on it. Guazo says that the data is reliable only from 2010 onwards but confirmed that the number of cases increased while the age of missing women declined.
+
+![pic1]({{ site.url }}/images/mexico/plots/A.svg)
+
+When talking to organisations and interviewing people in the State of Mexico about the problem of unreported missing women by the government, Guazo says that no-one knew anything about missing women when she approached people. But when talking about the word "absence", people understood what she was after. When confronting people with what the difference may be, she got the reply that a missing person would include a crime, and a person's absence wouldn't. Absence means that the person didn't want to be at home anymore, as simple as that. According to Guazo, this is obviously the game modern abductors play, and apparently, they play it really well, according to Guazo.
+
+Guazo says that cartels are one of the big reasons for the age drop in absence women in these states. She also reports that she found evidence in her investigations that there is an uprise of drug traffic cartels in the city of Mexico. Gauze says that the current governor of Mexico city, Miguel Ángel Mancera claims there are no drug cartels in the city. The story might be different. As government officials claim that their actions against cartels increased in their effectiveness, cartels appeared to have changed their strategy and aim now at younger women for drug trafficking. The crime might be covered up in the term definition of the reporting of absence and missing women.
+
+# "Absence" vs. "Missing"
+
+![pic1]({{ site.url }}/images/mexico/plots/B.svg)
+
+Guazo says that young women at the age of 13 are contacted by Facebook. A guy would claim he likes her and wants her to be his girlfriend. The Game would be played openly on the web. What could possibly be wrong if a girl is contacted on Facebook by another guy? After some time, even after meeting her parents, the girl would go missing, without a trace, and all of the sudden. The smartphone phone line of the girl is not available, from one day to the next. No one knows anything. As the parents cry for help by the police and the government, no significant actions can be expected at this stage and anywhere in the future as there is no direct trace for a crime, Guazo explains. That is how these cases are reported in the government database and don't appear on the Government's agenda.
+
+# The data:
+
+For further information how Guazo and her team scraped and accessed the data can be read here: <https://onlinejournalismblog.com/2016/06/22/mexico-data-journalism-ausencias-ignoradas/>

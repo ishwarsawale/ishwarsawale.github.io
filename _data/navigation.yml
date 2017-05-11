@@ -1,0 +1,21 @@
+# main links links
+  main:
+
+  - title: "Posts"
+    url: /year-archive/
+
+  - title: "About"
+    url: /splash-page/
+
+  - title: "Categories"
+    url: /categories/
+
+  # - title: "Data"
+  #   url: /data/
+
+  #
+  # - title: "Collections"
+  #   url: /collection-archive/
+  #
+  # - title: "External Link"
+  #   url: https://google.com

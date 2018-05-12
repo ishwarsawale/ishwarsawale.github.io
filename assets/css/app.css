@@ -219,7 +219,11 @@ hr {
   background-size: cover;
   background-position: center;
   min-height: 250px; }
-
+.blog-img-5 {
+  background-image: url(../../assets/imgs/goimage.jpg);
+  background-size: cover;
+  background-position: center;
+  min-height: 250px; }
 
 .post-items {
   position: absolute;

@@ -24,13 +24,13 @@ const sections = [
 
 const Resume = () => (
   <Main
-    title="Resume"
-    description="Ishwar Sawale's Resume."
+    title="Résumé"
+    description="Ishwar Sawale's Résumé."
   >
     <article className="post" id="resume">
       <header>
         <div className="title">
-          <h2 data-testid="heading"><Link to="resume">Resume</Link></h2>
+          <h2 data-testid="heading"><Link to="resume">Résumé</Link></h2>
           <div className="link-container">
             {sections.map((sec) => (
               <h4 key={sec}>

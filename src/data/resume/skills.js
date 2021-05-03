@@ -21,7 +21,7 @@ const skills = [
   },
   {
     title: 'PostgreSQL/SQLite3/SQL',
-    competency: 4,
+    competency: 3,
     category: ['Web Development', 'Databases', 'Languages'],
   },
   {
@@ -56,12 +56,12 @@ const skills = [
   },
   {
     title: 'Tensorflow + Keras',
-    competency: 5,
+    competency: 4.5,
     category: ['Data Science', 'Python'],
   },
   {
     title: 'Pytorch',
-    competency: 5,
+    competency: 4.5,
     category: ['Data Science', 'Python'],
   },
   {
@@ -96,12 +96,12 @@ const skills = [
   },
   {
     title: 'Pandas',
-    competency: 5,
+    competency: 4,
     category: ['Data Engineering', 'Data Science', 'Python'],
   },
   {
     title: 'Matplotlib',
-    competency: 3,
+    competency: 4,
     category: ['Data Engineering', 'Data Science', 'Python'],
   },
   {

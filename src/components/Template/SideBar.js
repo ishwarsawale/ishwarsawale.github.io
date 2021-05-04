@@ -5,6 +5,25 @@ import ContactIcons from '../Contact/ContactIcons';
 
 const { PUBLIC_URL } = process.env; // set automatically from package.json:homepage
 
+var indexButton;
+function SwitchIndexButton() {
+    if (window.location.pathname.includes('/resume')){
+        indexButton = <Link to="/mooc" className="button">Certifications</Link>
+    }else if (window.location.pathname.includes('/mooc')){
+        indexButton = <Link to="/about" className="button">About</Link>
+    }
+    else if (window.location.pathname.includes('/about')){
+        indexButton = <Link to="/resume" className="button">Résumé</Link>
+    }
+    else if (window.location.pathname.includes('/projects')){
+        indexButton = <Link to="/resume" className="button">Résumé</Link>
+    }
+    else{
+        indexButton = <Link to="/about" className="button">About</Link>
+    }
+    return indexButton
+}
+
 const SideBar = () => (
   <section id="sidebar">
     <section id="intro">
@@ -18,7 +37,7 @@ const SideBar = () => (
     </section>
 
     <section className="blurb">
-      <h2>About</h2>
+      <h2>Summary</h2>
       <p>Hi, I&apos;m Ishwar. I like building things.
         I am a Data Scientist/ Machine Learning Engineer with 5+ years of experience
         in real-world datasets & business problem-solving.
@@ -27,7 +46,7 @@ const SideBar = () => (
       </p>
       <ul className="actions">
         <li>
-          {!window.location.pathname.includes('/resume') ? <Link to="/resume" className="button">Résumé</Link> : <Link to="/about" className="button">About Me</Link>}
+            {SwitchIndexButton()}
         </li>
       </ul>
     </section>

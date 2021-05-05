@@ -5,6 +5,11 @@ const skills = [
     category: ['Tools', 'Languages'],
   },
   {
+    title: 'OpenCV',
+    competency: 4,
+    category: ['Data Science', 'Python'],
+  },
+  {
     title: 'Amazon Web Services',
     competency: 4,
     category: ['Web Development', 'Tools'],
@@ -48,6 +53,11 @@ const skills = [
     title: 'Google Cloud Compute',
     competency: 3,
     category: ['Tools', 'Web Development'],
+  },
+  {
+    title: 'Django',
+    competency: 3.5,
+    category: ['Web Development', 'Python'],
   },
   {
     title: 'Numpy',

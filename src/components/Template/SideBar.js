@@ -32,7 +32,8 @@ const SideBar = () => (
       </Link>
       <header>
         <h2>Ishwar Sawale</h2>
-        <p><a href="mailto:ishwarsawale@gmail.com">ishwarsawale@gmail.com</a></p>
+          <ContactIcons />
+        {/*<p><a href="mailto:ishwarsawale@gmail.com">ishwarsawale@gmail.com</a></p>*/}
       </header>
     </section>
 
@@ -52,7 +53,7 @@ const SideBar = () => (
     </section>
 
     <section id="footer">
-      <ContactIcons />
+      {/*<ContactIcons />*/}
       <p className="copyright">&copy; Ishwar Sawale <Link to="/">https://ishwarsawale.github.io/</Link>.</p>
     </section>
   </section>

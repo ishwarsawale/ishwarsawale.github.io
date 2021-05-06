@@ -24,6 +24,35 @@ function SwitchIndexButton() {
     return indexButton
 }
 
+var paraText;
+function SwitchPara() {
+    if (window.location.pathname.includes('/resume')){
+        paraText = <p>I am active learner & I have completed 170+ courses/certifications on Coursera, DataCamp, Udemy,
+        LinkedIn, etc.</p>
+    }else if (window.location.pathname.includes('/mooc')){
+        paraText = <p>
+            I have extensive experience in building Machine Learning / Deep Learning. Experienced in implementing cutting-edge research using graph-based frameworks.
+        </p>
+    }
+    else if (window.location.pathname.includes('/about')){
+        paraText = <p> I Design, deploy and maintain ML models and systems, owning from research to production. I follow Zen of Python religiously.
+            I have worked with an agile, scrum-based environment. Visit RÉSUMÉ for more details.</p>
+    }
+    else if (window.location.pathname.includes('/projects')){
+        paraText = <p>Working knowledge of the data science pipeline including but not limited to data collection, data cleaning, Exploratory data analysis
+            , feature engineering, supervised & unsupervised algorithms, model assessment & deployment.
+        </p>
+    }
+    else{
+        paraText = <p>Hi, I&apos;m Ishwar. I like building things.
+            I am a Data Scientist/ Machine Learning Engineer with 5+ years of experience
+            in real-world datasets & business problem-solving.
+            I have experience in AI product research and development; in the domain -
+            Natural Language Processing, Computer Vision & Conversational Agents.
+        </p>
+    }
+    return paraText
+}
 const SideBar = () => (
   <section id="sidebar">
     <section id="intro">
@@ -39,12 +68,7 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>Summary</h2>
-      <p>Hi, I&apos;m Ishwar. I like building things.
-        I am a Data Scientist/ Machine Learning Engineer with 5+ years of experience
-        in real-world datasets & business problem-solving.
-        I have experience in AI product research and development; in the domain -
-        Natural Language Processing, Computer Vision & Conversational Agents.
-      </p>
+        {SwitchPara()}
       <ul className="actions">
         <li>
             {SwitchIndexButton()}

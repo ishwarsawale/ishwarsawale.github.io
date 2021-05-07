@@ -7,7 +7,7 @@ You may wish to fork this repository or remove my remote origin and add your own
 ## Before you start
 
 1. Make sure you have a good text editor. I recommend [Visual Studio Code](https://code.visualstudio.com/).
-1. Review `src/App.js`. This file contains all of our route definitions. If you wish to add or remove a page, you should do so here.
+2. Review `src/App.js`. This file contains all of our route definitions. If you wish to add or remove a page, you should do so here.
 
 ## Checklist
 

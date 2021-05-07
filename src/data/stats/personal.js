@@ -27,7 +27,7 @@ const data = [
   {
     key: 'certification',
     label: 'Certifications & Courses Completed',
-    value: 176,
+    value: 177,
     link:
       'https://github.com/ishwarsawale/certification_list',
   },

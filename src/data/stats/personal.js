@@ -27,7 +27,7 @@ const data = [
   {
     key: 'certification',
     label: 'Certifications & Courses Completed',
-    value: 177,
+    value: 178,
     link:
       '/mooc',
   },

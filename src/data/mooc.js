@@ -1,5 +1,12 @@
 const moocData = [
   {
+    "id": 178,
+    "name": "Math for Machine Learning",
+    "year": 2021,
+    "platform": "AWS",
+    "href": "https://drive.google.com/file/d/17--Ros8DlpNbwahNpgne5MOhD7J90zUp/view"
+  },
+  {
     "id": 177,
     "name": "Generative Adversarial Networks (GANs) Specialization by deeplearning.ai",
     "year": 2021,

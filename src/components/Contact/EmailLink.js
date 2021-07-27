@@ -9,7 +9,7 @@ const validateText = (text) => {
 };
 
 const messages = [
-  'ishwarsawale',
+  'ishwar.code',
   'ishwar.code',
 ];
 

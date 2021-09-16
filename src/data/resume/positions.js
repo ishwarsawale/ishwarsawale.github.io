@@ -1,9 +1,17 @@
 const positions = [
   {
+    company: 'DAZN',
+    position: 'Senior Machine Learning Engineer',
+    link: 'https://www.dazn.com/',
+    daterange: 'Sept 2021 - Present',
+    points: [
+    ],
+  },
+  {
     company: 'Indegene Inc',
     position: 'Senior Data Scientist',
     link: 'https://www.indegene.com/',
-    daterange: 'May 2020 - Present',
+    daterange: 'May 2020 - Aug 2021',
     points: [
       'Automated Ad Creative Generation & Recommendation product for Life Science companies from historical data.',
       'Developed Object detection, Text extraction & Classification models to categorize assets using Tensorflow & Deep learning algorithms.',

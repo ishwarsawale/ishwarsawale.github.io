@@ -1,18 +1,18 @@
 
 # Intro
-- I am a Data Scientist/ Machine Learning Engineer with 5+ years of experience in real-world datasets and business problem-solving.
+- I am a Data Scientist & Machine Learning Engineer with 5.5+ years of experience in real-world datasets and business problem-solving.
 - I have experience in AI product research and development; in the domain - Natural Language Processing, Computer Vision & Conversational Agents.
 - I ensure the quality of ML systems for my team and ensure the validity of experimentation strategy and offline and online metrics for my team. 
 - I am an expert in ML modeling, techniques, and toolkits and adapt my team’s work based on the latest developments in these fields.
 
 # Currently
-- I am currently working with Indegene Inc. Building Solution for Life Science Domain.
+- I am currently working with Dazn Media Group as Senior Machine Learning Engineer.
 
 # Some history
 
-- Previously I have worked with Mindstix Software Labs as a Solutions Architect Data Science, before that, I was working with Coriolis Technologies Pvt Ltd on Deep Learning & Computer Vision related applications.
-- I have completed a Diploma in Big Data Analytics and Bachelor of Engineering from the University Of Pune.
-- I have completed courses related to Machine Learning, AI from Udemy, Coursera, DataCamp, & LinkedIn Learning. 
+- Previously I have worked at Indegene Private Limited, Mindstix Software Labs Private Limited, Coriolis Technologies Private Limited.
+- I have a Diploma in Big Data Analytics and Bachelor of Engineering from the University Of Pune.
+- Apart from that, I have done few courses related to Machine Learning/Deep Learning from Udemy, Coursera, DataCamp & LinkedIn Learning. 
 
 # ML Fluency
 - I have a deep understanding of a range of ML techniques (e.g., deep learning, optimization, regression, ensembles, tree based methods, dimensionality reduction, Bayesian modeling, etc.), area (CV, NLP, RL, etc.), or tool (sklearn, pytorch, tensorflow, etc.) and I select an optimal solution for my projects.

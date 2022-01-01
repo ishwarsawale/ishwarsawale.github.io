@@ -1,5 +1,12 @@
 const moocData = [
   {
+    "id": 179,
+    "name": "Building Recommender Systems with Machine Learning and AI",
+    "year": 2022,
+    "platform": "Udemy",
+    "href": "https://udemy-certificate.s3.amazonaws.com/pdf/UC-91f609c2-d0c0-4bb6-b345-3060f5576cfd.pdf"
+  },
+  {
     "id": 178,
     "name": "Math for Machine Learning",
     "year": 2021,

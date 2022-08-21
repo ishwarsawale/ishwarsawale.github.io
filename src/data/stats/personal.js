@@ -27,14 +27,14 @@ const data = [
   {
     key: 'certification',
     label: 'Certifications & Courses Completed',
-    value: 178,
+    value: 179,
     link:
       '/mooc',
   },
   {
     key: 'location',
     label: 'Current city',
-    value: 'Pune, India',
+    value: 'Amsterdam, NL',
   },
 ];
 

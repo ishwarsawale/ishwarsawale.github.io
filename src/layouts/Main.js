@@ -18,7 +18,7 @@ const Main = (props) => (
       <div id="main">
         {props.children}
       </div>
-      {props.fullPage ? null : <SideBar />}
+      {/*props.fullPage ? null : <SideBar />*/ /* remove enable sidebar*/}
     </div>
   </HelmetProvider>
 );

@@ -13,7 +13,7 @@ Contributions are actively encouraged. Please review the [design goals](./docs/d
 
 ## Dependencies
 
-Tested with: [node](https://nodejs.org/) >= v12 and optional [nvm](https://github.com/nvm-sh/nvm#installing-and-updating) for managing node versions.
+Tested with: [node](https://nodejs.org/) >= v14 and optional [nvm](https://github.com/nvm-sh/nvm#installing-and-updating) for managing node versions.
 
 ## Set up
 
@@ -22,7 +22,7 @@ To download the repository and install dependencies, run the following commands:
 ```bash
 git clone git://github.com/ishwarsawale/personal-site.git # replace [ishwarsawale] with your github username if you fork first.
 cd personal-site
-nvm install # this is optional - make sure you're running >= node 12 with `node --version`
+nvm install # this is optional - make sure you're running >= node 14 with `node --version`
 npm install
 ```
 
@@ -52,6 +52,7 @@ To statically export the site without deploying to github pages, delete or disab
 
 ## Acknowledgements
 
+* Inspired from https://github.com/mldangelo/personal-site
 * Template based on [Future Imperfect](https://html5up.net/future-imperfect) by [@ajlkn](https://github.com/ajlkn) for [HTML5 UP](html5up.net).
 * Special thanks to [@typpo](https://github.com/typpo) for tirelessly answering all of my node.js and react questions.
 * [@notrueblood](https://github.com/notrueblood)[<sup>[1]</sup>](https://github.com/mldangelo/personal-site/pull/218) and [@sjhsieh](https://github.com/sjhsieh)[<sup>[2]</sup>](https://github.com/mldangelo/personal-site/issues/168) for keeping my ego in check.

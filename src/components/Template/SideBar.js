@@ -45,7 +45,7 @@ function SwitchPara() {
     }
     else{
         paraText = <p>Hi, I&apos;m Ishwar. I like building things.
-            I am a Data Scientist/ Machine Learning Engineer with 5+ years of experience
+            I am a Data Scientist/ Machine Learning Engineer with 7+ years of experience
             in real-world datasets & business problem-solving.
             I have experience in AI product research and development; in the domain -
             Natural Language Processing, Computer Vision & Conversational Agents.

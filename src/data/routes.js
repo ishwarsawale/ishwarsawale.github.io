@@ -12,10 +12,10 @@ const routes = [
     label: 'Résumé',
     path: '/resume',
   },
-  {
+  /*{
     label: 'Projects',
     path: '/projects',
-  },
+  },*/
   {
     label: 'Certifications',
     path: '/mooc',

@@ -1,6 +1,6 @@
 
 # Intro
-- I am a Data Scientist & Machine Learning Engineer with 7+ years of experience in real-world datasets and business problem-solving.
+- I am a Data Scientist / Machine Learning Engineer with 7+ years of experience in real-world datasets and business problem-solving.
 - I have experience in AI product research and development; in the domain - Natural Language Processing, Computer Vision & Conversational Agents.
 - I ensure the quality of ML systems for my team and ensure the validity of experimentation strategy and offline and online metrics for my team. 
 - I am an expert in ML modeling, techniques, and toolkits and adapt my team’s work based on the latest developments in these fields.

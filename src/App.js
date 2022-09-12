@@ -33,6 +33,6 @@ const App = () => (
     </Suspense>
   </BrowserRouter>
 );
-document.body.style = 'background: #0F1111;';
+// document.body.style = 'background: #0F1111;';
 
 export default App;

@@ -1,0 +1,30 @@
+name: GitHub Pages
+
+on:
+  push:
+    branches: [ master ]
+jobs:
+  deployment:
+    runs-on: ubuntu-latest
+    environment: production
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+      with:
+        persist-credentials: false
+    - name: Setup Node
+      uses: actions/setup-node@v3
+      with:
+        node-version-file: '.nvmrc'
+    - name: Install
+      run: npm ci
+    - name: Build and Deploy
+      env:
+        NODE_ENV: production
+        # This is set automatically by github
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+          git config user.name "Automated"
+          git config user.email "actions@users.noreply.github.com"
+          git remote set-url origin https://git:${GITHUB_TOKEN}@github.com/ishwarsawale/ishwarsawale.github.io
+          npm run deploy

@@ -6,7 +6,7 @@ const positions = [
     daterange: 'Sept 2021 - Present',
     points: [
     ],
-      'Built recommendation system for the Dazn Platform.',
+      'Built recommendation system for the Dazn Platform.'
   },
   {
     company: 'Indegene Inc',

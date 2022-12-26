@@ -62,7 +62,7 @@ const SideBar = () => (
       <header>
         <h2>Ishwar Sawale</h2>
           <ContactIcons />
-        {/*<p><a href="mailto:ishwarsawale@gmail.com">ishwarsawale@gmail.com</a></p>*/}
+        {/*<p><a href="mailto:i@gmail.com">i@gmail.com</a></p>*/}
       </header>
     </section>
 

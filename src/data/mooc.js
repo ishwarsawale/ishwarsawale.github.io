@@ -1,5 +1,19 @@
 const moocData = [
   {
+    "id": 181,
+    "name": "Dataiku Core Designer",
+    "year": 2023,
+    "platform": "Dataiku",
+    "href": "https://verify.skilljar.com/c/8xx35zznhzea"
+  },
+  {
+    "id": 180,
+    "name": "Interactive Python Dashboards with Plotly and Dash",
+    "year": 2023,
+    "platform": "Udemy",
+    "href": "https://www.udemy.com/certificate/UC-7b1e72e5-8de3-46ef-9bb4-731ebf8afc52/"
+  },
+  {
     "id": 179,
     "name": "Building Recommender Systems with Machine Learning and AI",
     "year": 2022,

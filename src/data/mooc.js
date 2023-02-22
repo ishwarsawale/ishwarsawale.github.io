@@ -1,5 +1,12 @@
 const moocData = [
   {
+    "id": 182,
+    "name": "Dataiku ML Practitioner",
+    "year": 2023,
+    "platform": "Dataiku",
+    "href": "https://verify.skilljar.com/c/gw758bmtuygx"
+  },
+  {
     "id": 181,
     "name": "Dataiku Core Designer",
     "year": 2023,

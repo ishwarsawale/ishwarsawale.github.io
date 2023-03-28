@@ -5,12 +5,8 @@
 - I ensure the quality of ML systems for my team and ensure the validity of experimentation strategy and offline and online metrics for my team. 
 - I am an expert in ML modeling, techniques, and toolkits and adapt my team’s work based on the latest developments in these fields.
 
-# Currently
-- I am currently working with Dazn Media Group as Senior Machine Learning Engineer.
-
 # Some history
-
-- Previously I have worked at Indegene Private Limited, Mindstix Software Labs Private Limited, Coriolis Technologies Private Limited.
+- Previously I have worked at Dazn Media Group as Senior Machine Learning Engineer, Indegene Private Limited, Mindstix Software Labs Private Limited, Coriolis Technologies Private Limited.
 - I have a Diploma in Big Data Analytics and Bachelor of Engineering from the University Of Pune.
 - Apart from that, I have done few courses related to Machine Learning/Deep Learning from Udemy, Coursera, DataCamp & LinkedIn Learning. 
 
